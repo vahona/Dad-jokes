@@ -1,0 +1,26 @@
+{
+  "name": "dad-jokes-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokes.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onja-org/dad-jokes-ajax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onja-org/dad-jokes-ajax/issues"
+  },
+  "homepage": "https://github.com/onja-org/dad-jokes-ajax#readme",
+  "browserslist": [
+    "last 1 chrome versions"
+  ],
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
